@@ -1,0 +1,16 @@
+My tool says that the language of...
+
+... Passage  1 is ____,
+... Passage  2 is ____,
+... Passage  3 is ____,
+... Passage  4 is ____,
+... Passage  5 is ____,
+... Passage  6 is ____,
+... Passage  7 is ____,
+... Passage  8 is ____,
+... Passage  9 is ____,
+... Passage 10 is ____,
+... Passage 11 is ____,
+... Passage 12 is ____,
+... Passage 13 is ____, and
+... Passage 14 is ____.

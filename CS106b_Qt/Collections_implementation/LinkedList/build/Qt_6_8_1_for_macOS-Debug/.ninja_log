@@ -1,0 +1,4 @@
+# ninja log v6
+3	303	1737773732044884721	CMakeFiles/LinkedList.dir/main.cpp.o	89d79a03c24f8eff
+20	362	1737628576528502151	CMakeFiles/LinkedList.dir/linkedlist.cpp.o	1029c31856c45b57
+303	331	1737773732344477748	LinkedList	cfeb96cee89f5a89

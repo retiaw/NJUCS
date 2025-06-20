@@ -1,0 +1,7 @@
+/Users/liuxiansheng/Desktop/CS106b/Collections_implementation/ArrayStack/build/Qt_6_8_1_for_macOS-Debug/CMakeFiles/ArrayStack.dir
+/Users/liuxiansheng/Desktop/CS106b/Collections_implementation/ArrayStack/build/Qt_6_8_1_for_macOS-Debug/CMakeFiles/edit_cache.dir
+/Users/liuxiansheng/Desktop/CS106b/Collections_implementation/ArrayStack/build/Qt_6_8_1_for_macOS-Debug/CMakeFiles/rebuild_cache.dir
+/Users/liuxiansheng/Desktop/CS106b/Collections_implementation/ArrayStack/build/Qt_6_8_1_for_macOS-Debug/CMakeFiles/list_install_components.dir
+/Users/liuxiansheng/Desktop/CS106b/Collections_implementation/ArrayStack/build/Qt_6_8_1_for_macOS-Debug/CMakeFiles/install.dir
+/Users/liuxiansheng/Desktop/CS106b/Collections_implementation/ArrayStack/build/Qt_6_8_1_for_macOS-Debug/CMakeFiles/install/local.dir
+/Users/liuxiansheng/Desktop/CS106b/Collections_implementation/ArrayStack/build/Qt_6_8_1_for_macOS-Debug/CMakeFiles/install/strip.dir

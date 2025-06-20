@@ -1,0 +1,8 @@
+# ninja log v6
+1	532	1737776067037968390	CMakeFiles/ArrayStack.dir/main.cpp.o	3a7c2bc3179fcc1c
+8	257	1737776343946975004	CMakeFiles/ArrayStack.dir/arraystack.cpp.o	9f1ca55178df6924
+257	358	1737776344196660937	ArrayStack	aefb6c709f5320f8
+18	492	1737776393802226787	CMakeFiles/ArrayStack.dir/arraystack.cpp.o	9f1ca55178df6924
+493	522	1737776394277584472	ArrayStack	aefb6c709f5320f8
+19	361	1737776572763311515	CMakeFiles/ArrayStack.dir/arraystack.cpp.o	9f1ca55178df6924
+362	449	1737776573106973019	ArrayStack	aefb6c709f5320f8
