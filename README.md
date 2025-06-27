@@ -6,6 +6,7 @@
 ## 📚 NJU-CS学习资料分享（经典教材 / 考试回顾）
 1. [离散数学](./离散数学/Readme.md#离散数学)
 2. [线性代数](./线性代数/Readme.md#线性代数)
+3. [数字逻辑与计算机组成(DL&CO)](./数字逻辑与计算机组成（DL&CO）/Readme.md#DL&CO)
 ## 🏫 CS经典课程分享
 1. [CS61A](./CS61A.md#CS61a)
 2. [CS106B](./CS106b_Qt/Readme.md#cs106b)
