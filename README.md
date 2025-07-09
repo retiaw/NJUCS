@@ -10,7 +10,7 @@
 3. [数字逻辑与计算机组成(DL&CO)](./数字逻辑与计算机组成（DL&CO）/Readme.md#DL&CO)
 <a id="经典课程"></a>
 ## 🏫 CS经典课程
-1. [CS61A(编程入门 python)](./CS61A.md#CS61a)
+1. [CS61A(编程入门)](./CS61A.md#CS61a)
 2. [CS106B(数据结构)](./CS106b_Qt/Readme.md#cs106b)
 3. [CS61B(数据结构)](./CS61B.md#CS61B)
 <a id="学习心得"></a>
