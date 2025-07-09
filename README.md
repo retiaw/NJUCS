@@ -18,7 +18,7 @@
 在开始一切大学学习生活前，请先学会[提问的智慧](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/main/README-zh_CN.md)和[别像弱智一样提问](https://github.com/tangx/Stop-Ask-Questions-The-Stupid-Ways/blob/master/README.md)。  
 > 如果你能理解与人交流的重要性，就不难意识到用正确的措辞提出有效的问题是一项不可多得的技能  
 
-### 获取信息的能力
+### 🎓获取信息的能力
 某天深夜，得知被计算机专业录取的小明下定决心在暑假就开始学习计算机课程，卷死身边人。于是他打开百度，搜索“学习计算机需要具备什么能力”。结果[如图](https://github.com/retiaw/NJUCS/blob/main/assets/Screenshot%202025-07-09%20at%208.11.47%E2%80%AFpm.png) 👈 🤣  
 
 #### 📚用Google代替Baidu: 
