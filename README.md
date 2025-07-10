@@ -44,5 +44,5 @@
 2. 知乎、贴吧、微信公众号、b站、小红书、私信、约饭、约球......
 3. [stackoverflow](https://stackoverflow.com/questions): 如果不知道这是什么，请***现学现卖***；  
 
-⚠️如果还是觉得利用这些工具仍旧没办法得到你想要的，请重温[提问的智慧](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/main/README-zh_CN.md)和[别像弱智一样提问](https://github.com/tangx/Stop-Ask-Questions-The-Stupid-Ways/blob/master/README.md)⚠️
+⚠️如果利用这些工具仍旧没办法得到你想要的，请重温[提问的智慧](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/main/README-zh_CN.md)和[别像弱智一样提问](https://github.com/tangx/Stop-Ask-Questions-The-Stupid-Ways/blob/master/README.md)⚠️
 
