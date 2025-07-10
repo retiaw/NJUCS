@@ -35,7 +35,7 @@
    1. 程序设计与数学证明：DeepSeek；
    2. 搜集信息与介绍概念：Chatgpt；
    3. 日 常 闲 (瞎) 聊 (扯) ：Kimi；
-> 这里丝毫没有贬低google search的意思，如果想搜索专业知识或进行系统性学习，google无疑是你的最佳选择。事实上，[STFW](https://www.zhihu.com/question/402667323/answer/3081605613)是程序猿必备的能力。  
+> 这里丝毫没有贬低google search的意思，如果想搜索专业知识或进行系统性学习，google无疑是你的最佳选择。事实上，[STFW](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/main/README-zh_CN.md#RTFM)是程序猿必备的能力。  
 
 小明听了以上两条建议信心满满，马上打开《高等数学》开始刷题，心想有了两大神器的帮助，已经天下无敌。面对难如登天的求极限问题小明急的抓耳挠腮。他犯了难，不知道如何向计算机表示这些题目，于是忐忑不安的打开小猿搜题......  
 
