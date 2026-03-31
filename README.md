@@ -9,6 +9,7 @@
 1. [离散数学](./离散数学/Readme.md#离散数学)
 2. [线性代数](./线性代数/Readme.md#线性代数)
 3. [数字逻辑与计算机组成(DL&CO)](./数字逻辑与计算机组成（DL&CO）/Readme.md#DL&CO)
+4. [数据结构（DS）](https://github.com/retiaw/NJUCS/tree/main/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%EF%BC%88DS%EF%BC%89)
 <a id="经典课程"></a>
 ## 🏫 CS经典课程
 1. [CS61A(编程入门)](./CS61A.md#CS61a)
