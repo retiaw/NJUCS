@@ -9,7 +9,9 @@
 1. [离散数学](./离散数学/Readme.md#离散数学)
 2. [线性代数](./线性代数/Readme.md#线性代数)
 3. [数字逻辑与计算机组成(DL&CO)](./数字逻辑与计算机组成（DL&CO）/Readme.md#DL&CO)
-4. [数据结构（DS）](https://github.com/retiaw/NJUCS/tree/main/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%EF%BC%88DS%EF%BC%89)
+4. [数据结构(DS)](https://github.com/retiaw/NJUCS/tree/main/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%EF%BC%88DS%EF%BC%89)
+5. [计算机系统基础(ICS)](./计算机系统基础（ICS）/readme.md#计算机系统基础)
+6. [概率论与数理统计](./概率论/readme.md)
 <a id="经典课程"></a>
 ## 🏫 CS经典课程
 1. [CS61A(编程入门)](./CS61A.md#CS61a)
@@ -65,8 +67,6 @@
 “收到！以下是一篇论文的结构组成。”  
 
 先贴出[一篇论文](https://arxiv.org/pdf/2407.04491)（也是笔者阅读的第一篇论文），下面将围绕这篇论文讲述论文的结构。（待更新。。。）
-
-
 
 
 
